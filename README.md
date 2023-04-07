@@ -1,4 +1,4 @@
-# 3D printer STL files for Intan RHD2000 Electroplating Board Enclosure
+# Intan RHD2000 electroplating board enclosure STL files
 
 The STL stereolithography files included in this repository can be used in conjunction with a 3D printer to fabricate a protective enclosure for the Intan RHD2000 Electroplating board. 
 
